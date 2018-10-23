@@ -1,1 +1,1 @@
-include ':app', ':animationtest1'
+include ':app', ':animationtest1', ':eventintercept'
